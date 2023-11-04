@@ -1,6 +1,7 @@
-#include<stdio.h>
-int main()
+#include<stdio.h> // HERE ARE ALL THE HEADER FILES
+
+int main() //THIS IS OUR MAIN FUNCTION AND "INT" IS A DATATYPE IN HERE
 {
-    printf("hello world");
+    printf("hello world"); //PRINTF IS A INBUILD KEYWORD OF C LANGUAGE HELPS US TO PRINT OUTPUT
     return 0;
 }
